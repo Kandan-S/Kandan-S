@@ -19,7 +19,7 @@
 ## 🚀 **Projects & Insights**  
 ### 🏆 FIFA World Cup Analysis  
 📊 **Explored winning patterns, goals, and team performances using Python & Tableau.**  
-![FIFA Analysis](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpiaXVrZmphdWtjN2p2aWt0d2xzanduemh5eGJpczZzdDg1bzlrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PkdmS9Rc4Xay773QY/giphy.gif)  
+![FIFA Analysis](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9sbWg4eHZhaDF6NHkycXdpdHV2Z3pobW82OW01M2R3M3J0YjhxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3eJ9NqWx2FLuSOe1qu/giphy.gif)  
 
 ### 🛒 Amazon Sales Analysis  
 📈 **Analyzed sales trends, customer behavior & revenue insights across multiple years.**  
