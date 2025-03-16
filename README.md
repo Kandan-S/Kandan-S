@@ -12,7 +12,7 @@
 🔹 **ETL & Databases:** MySQL, PostgreSQL  
   
 
-![Data Tools](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFobHppMzQwazB5cnJkOGJudnp5N2VvNjdta285YjdpdDE4ZTloZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif)  
+                                                                ![Data Tools](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFobHppMzQwazB5cnJkOGJudnp5N2VvNjdta285YjdpdDE4ZTloZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif)  
 
 ---
 
