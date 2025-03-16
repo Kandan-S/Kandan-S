@@ -1,7 +1,6 @@
-- 👋 Hi there, I’m @Kandan-S 
+![Data Science GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-- 🌱 I’m currently learning - Data Analytics 
--  📫 Reach me @ kandananand123@gmail.com
+
 
 <!---
 Kandan-S/Kandan-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
