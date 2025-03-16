@@ -12,14 +12,14 @@
 🔹 **ETL & Databases:** MySQL, PostgreSQL  
   
 
-![Data Tools](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)  
+![Data Tools](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Jia2ZjYTZ4OWNqNWd5ZXVoMmh4Znl0M2dxb2piamQ5aTV4bHN5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t2cBOuEOoOsWmyUSZs/giphy.gif)  
 
 ---
 
 ## 🚀 **Projects & Insights**  
 ### 🏆 FIFA World Cup Analysis  
 📊 **Explored winning patterns, goals, and team performances using Python & Tableau.**  
-![FIFA Analysis](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
+![FIFA Analysis](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpiaXVrZmphdWtjN2p2aWt0d2xzanduemh5eGJpczZzdDg1bzlrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PkdmS9Rc4Xay773QY/giphy.gif)  
 
 ### 🛒 Amazon Sales Analysis  
 📈 **Analyzed sales trends, customer behavior & revenue insights across multiple years.**  
