@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm **Kandan**  
 ### 📊 An **Aspiring Data Analyst** | Passionate about Data & Insights  
 
-![Analytics](https://media.giphy.com/media/XHAv3GveJg3lV8McwG/giphy.gif)  
+![Analytics](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)  
 
 ---
 
@@ -12,7 +12,7 @@
 🔹 **ETL & Databases:** MySQL, PostgreSQL  
   
 
-![Data Tools](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Jia2ZjYTZ4OWNqNWd5ZXVoMmh4Znl0M2dxb2piamQ5aTV4bHN5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t2cBOuEOoOsWmyUSZs/giphy.gif)  
+![Data Tools](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFobHppMzQwazB5cnJkOGJudnp5N2VvNjdta285YjdpdDE4ZTloZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif)  
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### 🛒 Amazon Sales Analysis  
 📈 **Analyzed sales trends, customer behavior & revenue insights across multiple years.**  
-![Sales Trends](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)  
+![Sales Trends]([https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif](https://media.giphy.com/media/XHAv3GveJg3lV8McwG/giphy.gif))  
 
 ---
 
