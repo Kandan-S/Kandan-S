@@ -1,7 +1,4 @@
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
-</div>
-
+- 👋 Hi there, I’m @Kandan-S - 🌱 I’m currently learning - Data Analytics - 📫 Reach me @ kandananand123@gmail.com
 
 <!---
 Kandan-S/Kandan-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
