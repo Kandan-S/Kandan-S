@@ -23,7 +23,7 @@
 
 ### 🛒 Amazon Sales Analysis  
 📈 **Analyzed sales trends, customer behavior & revenue insights across multiple years.**  
-![Sales Trends]([https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif](https://media.giphy.com/media/XHAv3GveJg3lV8McwG/giphy.gif))  
+![Sales Trends](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)  
 
 ---
 
