@@ -1,6 +1,6 @@
-- 👋 Hi there, I’m @Kandan-S -
+- 👋 Hi there, I’m @Kandan-S 
 
-- 🌱 I’m currently learning - Data Analytics -
+- 🌱 I’m currently learning - Data Analytics 
 -  📫 Reach me @ kandananand123@gmail.com
 
 <!---
