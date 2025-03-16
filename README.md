@@ -1,6 +1,6 @@
-- 👋 Hi there, I’m @Kandan-S
-- 🌱 I’m currently learning - Data Analytics
-- 📫 Reach me @ kandananand123@gmail.com
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
+</div>
 
 
 <!---
