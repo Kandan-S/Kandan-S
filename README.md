@@ -9,8 +9,9 @@
 🔹 **Programming:** Python, SQL  
 🔹 **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
 🔹 **Data Wrangling:** Pandas, NumPy, Excel  
-🔹 **ETL & Databases:** MySQL 
-🔹 **Automation:** Power Automate 
+🔹 **ETL & Databases:** MySQL  
+🔹 **Automation:** Power Automate
+
 
 ---
 
