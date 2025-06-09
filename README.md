@@ -30,9 +30,9 @@
 ---
 
 ## 📬 **Where to Find Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kandan-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)  
-[![GitHub](https://img.shields.io/badge/GitHub-Kandan-black?style=for-the-badge&logo=github)](https://github.com/your-username)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=web)](your-portfolio-url)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kandan-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kandan-s)  
+[![GitHub](https://img.shields.io/badge/GitHub-Kandan-black?style=for-the-badge&logo=github)](https://github.com/Kandan-S)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=web)](https://kandan.framer.website/)  
 
 ![Data Driven](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)  
 
