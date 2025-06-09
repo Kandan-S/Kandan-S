@@ -25,13 +25,11 @@
 
 ### 📦 Inventory Management Analysis  
 🧾 **Cleaned and analyzed 24K+ records from a retail inventory system (2018–2024). Built insights on profit by department, reorder methods, and inactive items. Visualized using Power BI.**  
-![Inventory GIF]
-(https://raw.githubusercontent.com/Kandan-S/Kandan-S/main/assets/inventory.gif)  
+![Inventory GIF](https://raw.githubusercontent.com/Kandan-S/Kandan-S/main/assets/inventory.gif)  
 
 ### 🚗 Used Car Market Analysis – Cars24 Chennai  
 🔍 **Scraped 500+ used car listings using Power Automate, performed EDA & built a price prediction model using Python. Key insights were visualized with Power BI.**  
-![Used Car GIF]
-(https://raw.githubusercontent.com/Kandan-S/Kandan-S/main/assets/usedcar.gif)  
+![Used Car GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJqNDl3bHpxc3JkeXFlNnQzZHJxNXE4b3I3N2pyNXVrYXo2Mjc0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MSU9sITGoHWMGGVn9n/giphy.gif)  
 
 ---
 
