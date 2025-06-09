@@ -38,7 +38,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Kandan-black?style=for-the-badge&logo=github)](https://github.com/Kandan-S)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=web)](https://kandan.framer.website/)  
 
-![Data Driven](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)  
+
 
 ---
 
