@@ -11,9 +11,6 @@
 🔹 **Data Wrangling:** Pandas, NumPy, Excel  
 🔹 **ETL & Databases:** MySQL, PostgreSQL  
 
-![Data Tools]  
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFobHppMzQwazB5cnJkOGJudnp5N2VvNjdta285YjdpdDE4ZTloZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif" width="300" align="right">
-
 ---
 
 ## 🚀 **Projects & Insights**
@@ -28,11 +25,11 @@
 
 ### 📦 Inventory Management Analysis  
 🧾 **Cleaned and analyzed 24K+ records from a retail inventory system (2018–2024). Built insights on profit by department, reorder methods, and inactive items. Visualized using Power BI.**  
-![Inventory GIF](https://raw.githubusercontent.com/Kandan-S/Kandan-S/main/assets/inventory.gif)  
+![Inventory GIF.(https://raw.githubusercontent.com/Kandan-S/Kandan-S/main/assets/inventory.gif)  
 
 ### 🚗 Used Car Market Analysis – Cars24 Chennai  
 🔍 **Scraped 500+ used car listings using Power Automate, performed EDA & built a price prediction model using Python. Key insights were visualized with Power BI.**  
-![Used Car GIF](https://raw.githubusercontent.com/Kandan-S/Kandan-S/main/assets/usedcar.gif)  
+![Used Car GIF.(https://raw.githubusercontent.com/Kandan-S/Kandan-S/main/assets/usedcar.gif)  
 
 ---
 
